@@ -74,3 +74,7 @@ Draft code comments or function documentation
 This task successfully demonstrates the power of GPT-based models in generating coherent and meaningful text. With minimal setup, it becomes a versatile tool for educational, creative, and commercial applications. Through interactive controls, the model becomes accessible even to non-technical users, showing how AI can enhance productivity and creativity across fields.
 
 # OUTPUT
+
+![Image](https://github.com/user-attachments/assets/f7d1859a-6e68-4333-bcaa-d60b849a7cb4)
+
+![Image](https://github.com/user-attachments/assets/c1687ad2-812d-4439-bbb8-531e5d719a14)
